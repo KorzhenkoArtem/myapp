@@ -4,7 +4,7 @@
   max-width: 500px;
   margin: auto;
   border: 3px solid #000;
-  h1 {
-    color: #f00;
-  }
+}
+.begin h1 {
+  color: #f00;
 }
